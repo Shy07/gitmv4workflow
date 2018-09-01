@@ -4,3 +4,8 @@ cache/
 data/
 workflow
 *.png
+base64.rb
+data_formatter.rb
+md5.rb
+qrcode.rb
+uuid.rb
