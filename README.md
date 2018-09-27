@@ -1,4 +1,4 @@
 # gitmv4workflow
 🖇 get my way for workflow
 
-for Alfred
+for Alfred.app
